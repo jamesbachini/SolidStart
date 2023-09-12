@@ -80,7 +80,7 @@ forge-std/=lib/forge-std/src/`;
 
 const gitIgnore = `node_modules
 lib
-hh.js
+SolidStart.js
 .env
 cache
 artifacts`;
